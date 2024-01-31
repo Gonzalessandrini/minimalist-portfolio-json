@@ -136,7 +136,7 @@
       "url": "https://github.com/Gonzalessandrini/socket.io-chat-sql"
     },
     {
-      "name": "Socket.io-chat-SQL",
+      "name": "RickAndMortyChallenge",
       "isActive": true,
       "description": "Desafío de programación que consiste en crear una aplicación para controlar datos específicos de la API de Rick and Morty, con enfoque en código limpio, diseño eficiente, pruebas, organización y rendimiento, implementando la entrega de resultados en formato JSON.",
       "highlights": [
